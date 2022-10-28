@@ -1,0 +1,833 @@
+,name,tramway_longitude,tramway_latitude
+0,Regattastraße/Sportpromenade,13.5983058,52.4104296
+1,Seestraße/Amrumer Straße,13.3448955,52.5467137
+2,Schönhauser Allee/Bornholmer Straße,13.4138898,52.5537705
+3,Björnsonstraße,13.4026406,52.5552992
+4,Schönhauser Allee/Bornholmer Straße,13.4144934,52.5542024
+5,Stahlheimer Straße/Wisbyer Straße,13.4238019,52.5527208
+6,Prenzlauer Allee/Ostseestraße,13.4295126,52.5514112
+7,Prenzlauer Allee/Ostseestraße,13.4300239,52.5507797
+8,Prenzlauer Promenade/Am Steinberg,13.4299757,52.5566797
+9,S Prenzlauer Allee,13.427615,52.5452352
+10,Prenzlauer Allee/Danziger Straße,13.4244774,52.5396527
+11,Prenzlauer Allee/Danziger Straße,13.4239921,52.5387517
+12,Prenzlauer Allee/Danziger Straße,13.4247224,52.5390557
+13,Winsstraße,13.4280022,52.5378916
+14,Winsstraße,13.4294221,52.5374399
+15,Masurenstraße,13.4127866,52.5632037
+16,Galenusstraße,13.4286019,52.5818061
+17,S Pankow-Heinersdorf,13.4276065,52.5773178
+18,Mendelstraße,13.4192595,52.5750424
+19,Pankow Kirche,13.4106462,52.5711693
+20,Rosenthaler Straße,13.4328707,52.5963302
+21,Pastor-Niemöller-Platz,13.3971487,52.5800861
+22,Am Iderfenngraben,13.3921124,52.5826197
+23,Pasedagplatz,13.4602303,52.5599523
+24,Sulzfelder Straße,13.4760326,52.5533362
+25,Hansastraße/Buschallee,13.480374,52.5531858
+26,Hansastraße/Buschallee,13.4805827,52.5537608
+27,Feldtmannstraße,13.4957441,52.559939
+28,Hansastraße/Malchower Weg,13.4999139,52.5613788
+29,Altenhofer Straße,13.4796281,52.5351119
+30,Landsberger Allee/Weißenseer Weg,13.476705,52.532258
+31,Prerower Platz,13.5063374,52.5636616
+32,Prerower Platz,13.5046117,52.5638559
+33,Zingster Straße/Ribnitzer Straße,13.4973963,52.5701623
+34,Prendener Straße,13.5203133,52.5685744
+35,Ahrenshooper Straße,13.5020039,52.5661358
+36,Falkenberg,13.5265911,52.5698506
+37,Gehrenseestraße,13.5091772,52.5508154
+38,Oderbruchstraße,13.4615084,52.5304884
+39,Zechliner Straße,13.4869072,52.5339119
+40,Genslerstraße,13.4948771,52.53439
+41,Arendsweg,13.5066484,52.5349408
+42,Landsberger Allee/Rhinstraße,13.5181868,52.5357322
+43,Dingelstädter Straße,13.5244371,52.5366428
+44,Gewerbepark Georg Knorr,13.5341226,52.5390995
+45,Freizeitforum Marzahn,13.5573621,52.5465019
+46,Max-Herrmann-Straße,13.565478,52.5537187
+47,Jan-Petersen-Straße,13.5619425,52.5472111
+48,Wuhletalstraße,13.5682656,52.5577949
+49,Niemegker Straße,13.5718576,52.5650166
+50,Barnimplatz,13.5747394,52.5682711
+51,Ahrensfelde/Stadtgrenze,13.5741703,52.5726002
+52,Landsberger Allee/Blumberger Damm,13.5727623,52.5464096
+53,Brodowiner Ring,13.5787187,52.5479864
+54,Landsberger Chaussee/Zossener Straße,13.5871358,52.5490935
+55,Michendorfer Straße,13.5874362,52.5454634
+56,Zossener Straße/Kastanienallee,13.5989829,52.5438862
+57,Riesaer Straße/Louis-Lewin-Straße,13.6211499,52.5307469
+58,Riesaer Straße,13.6234797,52.5293723
+59,Beilsteiner Straße,13.5302267,52.5254798
+60,Allee der Kosmonauten/Rhinstraße,13.5211177,52.5258353
+61,Allee der Kosmonauten/Rhinstraße,13.5196343,52.5254439
+62,Meeraner Straße,13.5192685,52.5294311
+63,Landsberger Allee/Rhinstraße,13.5167808,52.5362433
+64,Rhinstraße/Plauener Straße,13.5146099,52.539004
+65,Ev. Krankenhaus KEH,13.5084195,52.5254615
+66,Roederplatz,13.4784194,52.5266198
+67,Karl-Lade-Straße,13.4626653,52.5291972
+68,Möllendorffstraße/Storkower Straße,13.4795469,52.523331
+69,Spandauer Straße/Marienkirche,13.4042441,52.5204243
+70,U Alexanderplatz,13.4147332,52.5221645
+71,Mollstraße/Otto-Braun-Straße,13.4204682,52.5249909
+72,Mollstraße/Otto-Braun-Straße,13.4202755,52.5255473
+73,S+U Alexanderplatz/Gontardstraße,13.4115103,52.5208822
+74,U Oranienburger Tor,13.3873633,52.5258817
+75,U Rosa-Luxemburg-Platz,13.4108348,52.528517
+76,S+U Alexanderplatz/Memhardstraße,13.4116514,52.5236711
+77,Mollstraße/Prenzlauer Allee,13.4165112,52.5278448
+78,Prenzlauer Allee/Metzer Straße,13.4195316,52.5312158
+79,Knaackstraße,13.4208487,52.5334285
+80,Marienburger Straße,13.4225029,52.5362333
+81,Thomas-Mann-Straße,13.4416553,52.5435991
+82,Antonplatz,13.4517416,52.5484803
+83,Friesickestraße,13.4412466,52.5515316
+84,Tino-Schwierzina-Straße,13.4348544,52.5622499
+85,Am Wasserturm,13.4360911,52.5653634
+86,Paul-Heyse-Straße,13.4447167,52.5291671
+87,Bersarinplatz,13.4522943,52.5196343
+88,Grünberger Straße/Warschauer Straße,13.452609,52.5122359
+89,Kosanke-Siedlung,13.4847623,52.4971668
+90,Gustav-Holzmann-Straße,13.4906093,52.4931464
+91,Heizkraftwerk Klingenberg,13.495864,52.4881352
+92,S Karlshorst,13.5251316,52.481264
+93,Treskowallee/HTW,13.5266007,52.4927665
+94,S Friedrichsfelde Ost,13.5190656,52.5139723
+95,Weiskopffstraße,13.5394706,52.4576241
+96,U Seestraße,13.3516304,52.5502459
+97,Rhinstraße/Gärtnerstraße,13.5098241,52.5457177
+98,Simon-Bolivar-Straße,13.4844148,52.5399029
+99,S Mahlsdorf,13.6092879,52.5111708
+100,Friedrich-Wolf-Straße,13.5752688,52.4242962
+101,Adersleber Weg,13.5604679,52.5380642
+102,Platz der Vereinten Nationen,13.4334573,52.52323
+103,Büschingstraße,13.4274991,52.5231163
+104,S+U Schönhauser Allee,13.4138521,52.5495502
+105,Milastraße,13.4125522,52.5449538
+106,Hugenottenplatz,13.4196558,52.6060687
+107,Arnouxstraße,13.424295,52.6072487
+108,Blankenfelder Straße,13.4314825,52.6017309
+109,Alte Försterei,13.5631525,52.4565253
+110,Spindlersfelder Straße,13.5586012,52.455916
+111,Nixenstraße,13.5501064,52.4566234
+112,Freizeit- und Erholungszentrum,13.5436031,52.4575779
+113,Bahnhofstraße/Lindenstraße,13.5710431,52.4516146
+114,Pablo-Neruda-Straße,13.5862663,52.4409891
+115,Schloßplatz Köpenick,13.5753837,52.4443409
+116,S Spindlersfeld,13.5620478,52.4453436
+117,Jenaer Straße,13.6143398,52.5321781
+118,Alte Hellersdorfer Straße/Zossener Straße,13.5927653,52.5447348
+119,Krankenhaus Köpenick/Südseite,13.5920763,52.4388396
+120,Allee der Kosmonauten/Poelchaustraße,13.552675,52.5339031
+121,Boschpoler Straße,13.5490456,52.5288185
+122,S Springpfuhl,13.5364753,52.5256938
+123,S+U Lichtenberg/Siegfriedstraße,13.4977547,52.5123603
+124,Alt-Marzahn,13.5638356,52.542096
+125,Bürgerpark Marzahn,13.5611133,52.5502042
+126,Ahrensfelde/Stadtgrenze,13.5748224,52.5727427
+127,Hohenschönhauser Straße,13.472126,52.5357243
+128,S Landsberger Allee,13.4571206,52.5287726
+129,S Greifswalder Straße,13.4382788,52.5407284
+130,Orankestrand,13.4858254,52.5523003
+131,Gehrenseestraße,13.5095067,52.5508669
+132,Alfred-Kowalke-Straße,13.5202011,52.5047159
+133,Gounodstraße,13.467105,52.5484859
+134,Alt-Hohenschönhausen,13.5051916,52.5488033
+135,Adlergestell/Vetschauer Allee,13.633786,52.3864124
+136,Lübbenauer Weg,13.6349375,52.3911239
+137,Glienicker Straße,13.57036,52.4408436
+138,Sandinostraße,13.4805355,52.5384568
+139,Stendaler Straße/Quedlinburger Straße,13.6043407,52.5389275
+140,Navarraplatz,13.4293062,52.608242
+141,Wiesenwinkel,13.3808622,52.5945385
+142,Grüntaler Straße,13.3909988,52.5553253
+143,Anna-Ebermann-Straße,13.5124151,52.5551935
+144,Arnimstraße,13.5145413,52.5587048
+145,Rüdickenstraße,13.5101671,52.5599143
+146,Prerower Platz,13.5037009,52.5627532
+147,Freienwalder Straße,13.4927547,52.5442504
+148,Hohenschönhauser Straße,13.473882,52.5356989
+149,Sportforum,13.4714237,52.5383802
+150,Betriebshof Indira-Gandhi-Straße,13.4686831,52.544219
+151,Zingster Straße,13.4953373,52.5728631
+152,Zingster Straße,13.494871,52.5723698
+153,Welsestraße,13.5258916,52.5692786
+154,Schalkauer Straße,13.5100149,52.5351866
+155,Virchow-Klinikum,13.3395713,52.543917
+156,Osram-Höfe,13.3585272,52.5538317
+157,Louise-Schroeder-Platz,13.3667957,52.5570401
+158,Osloer Straße/Prinzenallee,13.3837614,52.5559072
+159,S Bornholmer Straße,13.3962825,52.5548293
+160,Rothenbachstraße,13.4377179,52.570062
+161,Erich-Weinert-Straße,13.4285619,52.5475501
+162,Fröbelstraße,13.4258515,52.5419312
+163,Kleingartenanlage Bielefeldt,13.5193753,52.5192733
+164,U Frankfurter Tor,13.4540172,52.5153903
+165,Straßmannstraße,13.4500341,52.5229542
+166,U Tierpark,13.5240205,52.4967571
+167,Criegernweg,13.5215203,52.5013606
+168,Alt-Friedrichsfelde/Rhinstraße,13.5189935,52.5105776
+169,Klinikum im Friedrichshain,13.440187,52.5241405
+170,Landsberger Allee/Petersburger Straße,13.4462368,52.5259343
+171,Gedenkstätte Berliner Mauer,13.3908576,52.5359069
+172,S+U Alexanderplatz/Dircksenstraße,13.4117675,52.521606
+173,Mollstraße/Otto-Braun-Straße,13.4194191,52.5247633
+174,Hannoversche Straße,13.3869724,52.5273503
+175,Kopernikusstraße/Warschauer Straße,13.4526258,52.5105842
+176,Mittelheide,13.5835183,52.4629445
+177,Unter den Birken,13.5886074,52.4696309
+178,Wongrowitzer Steig,13.5853227,52.4669377
+179,Hultschiner Damm/Seestraße,13.6003908,52.4766078
+180,Roseggerstraße,13.6009475,52.480299
+181,Erich-Baron-Weg,13.6017355,52.482992
+182,Bütower Straße,13.6037288,52.4857014
+183,S Köpenick,13.5800655,52.4593448
+184,Janitzkystraße,13.5840793,52.4615755
+185,S Köpenick,13.5790435,52.4582153
+186,Hirtestraße,13.5844121,52.4604059
+187,Mahlsdorf-Süd,13.5991443,52.4741663
+188,Erich-Baron-Weg,13.602463,52.4839641
+189,Eichenhofweg,13.6075883,52.4910007
+190,Bruchsaler Straße,13.6064139,52.4893741
+191,Ledebourstraße,13.6096147,52.4937616
+192,Alt-Mahlsdorf,13.6133356,52.5051994
+193,Rathenaustraße/HTW,13.5258742,52.4587748
+194,Volkspark Wuhlheide,13.5172971,52.4711791
+195,Hegemeisterweg,13.5204016,52.4741663
+196,Marksburgstraße,13.5268378,52.4863576
+197,Stechlinstraße,13.5166189,52.4819985
+198,S Schöneweide,13.5105033,52.4557437
+199,Pietschkerstraße,13.5079617,52.4505494
+200,Sterndamm/Königsheideweg,13.5068261,52.4470965
+201,Rathaus Köpenick,13.5743231,52.4453493
+202,Köllnischer Platz,13.5679688,52.4448858
+203,Ottomar-Geschke-Straße,13.5588281,52.4417915
+204,Ottomar-Geschke-Straße,13.5594516,52.4418687
+205,Guyotstraße,13.4167576,52.6053946
+206,Französisch Buchholz Kirche,13.433607,52.6071269
+207,Marienstraße/Pasewalker Straße,13.4315527,52.5926983
+208,Pasewalker Straße/Blankenburger Weg,13.4303202,52.589266
+209,Pankower Straße,13.4289088,52.5851769
+210,Stiftsweg,13.4151516,52.5724332
+211,Nordendstraße,13.3882452,52.5887066
+212,Angerweg,13.3841175,52.5915641
+213,Hauptstraße/Friedrich-Engels-Straße,13.3768119,52.5968423
+214,Waldemarstraße,13.4062345,52.5908295
+215,S+U Friedrichstraße,13.3884107,52.5192805
+216,Am Kupfergraben,13.3953839,52.5194208
+217,S Rahnsdorf,13.6929464,52.451526
+218,S Friedrichshagen,13.6266712,52.4576956
+219,Brösener Straße,13.6350774,52.459158
+220,Fürstenwalder Damm/Müggelseedamm,13.661534,52.4498638
+221,Licht- und Luftbad Müggelsee,13.6711513,52.4476458
+222,Strandbad Müggelsee,13.6776394,52.4457181
+223,Rahnsdorf/Waldschänke,13.685038,52.4435317
+224,Fürstenwalder Damm,13.6521666,52.4524584
+225,Wendenschloß,13.5885926,52.4169658
+226,Wuhletalstraße,13.568045,52.5573513
+227,Grabbeallee/Pastor-Niemöller-Platz,13.3983466,52.579025
+228,U Eberswalder Straße,13.4116749,52.5410374
+229,Greifswalder Straße/Danziger Straße,13.4325586,52.5363204
+230,Greifswalder Straße/Danziger Straße,13.4335857,52.5359594
+231,Greifswalder Straße/Danziger Straße,13.4327418,52.5358897
+232,Greifswalder Straße/Danziger Straße,13.4334045,52.5364975
+233,Arnswalder Platz,13.4377292,52.5339695
+234,Kniprodestraße/Danziger Straße,13.4407002,52.532541
+235,Landsberger Allee/Petersburger Straße,13.4469945,52.5270595
+236,Spreestraße,13.6156193,52.4470512
+237,Bernhard-Bästlein-Straße,13.4821953,52.5267637
+238,Rathaus Lichtenberg,13.4788562,52.5156658
+239,S+U Frankfurter Allee,13.4773672,52.513805
+240,Zionskirchplatz,13.4056617,52.5345175
+241,S+U Schönhauser Allee,13.4135734,52.5493619
+242,Richtershorn,13.6248473,52.40105
+243,Hirschgarten,13.6006253,52.4518544
+244,Westendsiedlung,13.6082856,52.4531061
+245,Mühlweg,13.6128781,52.454141
+246,Bellevuestraße,13.5942323,52.4530137
+247,Wassersportzentrum,13.6090983,52.4490623
+248,Hartlebenstraße,13.6319981,52.4566982
+249,Altes Wasserwerk,13.6390729,52.4479905
+250,Ahornallee,13.6192978,52.4556504
+251,S Mahlsdorf,13.6109691,52.5111667
+252,Neue Bahnhofstraße,13.46934,52.5066384
+253,Neue Bahnhofstraße,13.4697498,52.5064089
+254,U Eberswalder Straße/Pappelallee,13.4127866,52.5414648
+255,U Eberswalder Straße/Pappelallee,13.4128789,52.5415991
+256,Bahnhofstraße/Lindenstraße,13.5728968,52.4515723
+257,Scharnweberstraße/Weichselstraße,13.4696737,52.5119866
+258,Scharnweberstraße/Weichselstraße,13.4716083,52.5122636
+259,U Osloer Straße,13.3732618,52.5566956
+260,Wismarplatz,13.4634444,52.510986
+261,Wismarplatz,13.4633489,52.5111368
+262,Grünberger Straße/Warschauer Straße,13.4522817,52.5120547
+263,Revaler Straße,13.4514133,52.5095695
+264,Holteistraße,13.465969,52.5088235
+265,Holteistraße,13.4666115,52.5083933
+266,Holteistraße,13.4658035,52.5080787
+267,Anton-Saefkow-Platz,13.4693612,52.5280674
+268,Landsberger Allee/Blumberger Damm,13.5703135,52.5457935
+269,Prerower Platz,13.5061494,52.5624568
+270,Wilhelmsmühlenweg,13.6129594,52.5081863
+271,Heinersdorf,13.4374123,52.5727666
+272,S Adlershof,13.5408489,52.435251
+273,Mollstraße/Otto-Braun-Straße,13.4195215,52.5247689
+274,Wasserwerk Friedrichshagen,13.6419956,52.4560563
+275,S Hohenschönhausen,13.5138941,52.5665389
+276,Björnsonstraße,13.4026821,52.5552883
+277,Blockdammweg,13.5104609,52.4842462
+278,S Warschauer Straße,13.4504441,52.5078902
+279,S Warschauer Straße,13.4505973,52.5080429
+280,Stadion Buschallee/Hansastraße,13.4876061,52.5569615
+281,Königsseestraße,13.577895,52.4205549
+282,S+U Warschauer Straße,13.4486755,52.5050654
+283,Loeperplatz,13.4797196,52.5197412
+284,S Schöneweide/Sterndamm,13.5094191,52.4541237
+285,Wilhelminenhofstraße/Edisonstraße,13.5148805,52.4622508
+286,Wilhelminenhofstraße/Edisonstraße,13.5138993,52.4630566
+287,Firlstraße,13.520347,52.460978
+288,Firlstraße,13.5212276,52.4607897
+289,Marktplatz Adlershof,13.546264,52.4372432
+290,U Eberswalder Straße,13.4116829,52.5404231
+291,U Eberswalder Straße,13.4113879,52.540204
+292,Pietschkerstraße,13.5079138,52.4502578
+293,S Schöneweide/Sterndamm,13.5093914,52.4531382
+294,S Nordbahnhof,13.3875139,52.5325508
+295,Monbijouplatz,13.3970747,52.5238986
+296,Rathaus Pankow,13.4045701,52.5695371
+297,U Vinetastraße,13.4132251,52.5591509
+298,Rathaus Pankow,13.4038045,52.5694816
+299,Schönhauser Allee/Bornholmer Straße,13.414524,52.5532393
+300,U Oranienburger Tor,13.3876417,52.5242398
+301,Betriebshof Marzahn,13.5826397,52.5490131
+302,Rothenbachstraße,13.4377078,52.5702229
+303,Würtzstraße,13.4244231,52.5760936
+304,Prenzlauer Allee/Ostseestraße,13.4297695,52.5503132
+305,Prenzlauer Allee/Ostseestraße,13.428891,52.5516937
+306,Schönhauser Allee/Bornholmer Straße,13.4150001,52.5537181
+307,Wühlischstraße/Gärtnerstraße,13.4597503,52.50903
+308,Loeperplatz,13.4786003,52.5203563
+309,Wendenschloß,13.5885444,52.4169977
+310,Betonwerk,13.5717287,52.4306271
+311,Betonwerk,13.5716912,52.4309071
+312,Friedrich-Wolf-Straße,13.5750827,52.4246225
+313,Glienicker Straße,13.5700051,52.4415594
+314,Köllnischer Platz,13.5691692,52.4436433
+315,Köllnischer Platz,13.569186,52.4438253
+316,Lübbenauer Weg,13.634932,52.3912295
+317,Marktplatz Adlershof,13.5489367,52.4382203
+318,Königsseestraße,13.577967,52.4203842
+319,Regattatribünen,13.5884715,52.411217
+320,Rosenweg,13.5714309,52.4347036
+321,Rosenweg,13.5714816,52.4349601
+322,S Grünau,13.5749235,52.4132647
+323,Strandbad Grünau,13.604455,52.4086224
+324,Vollkropfgraben,13.5714889,52.4386665
+325,Vollkropfgraben,13.5714377,52.43886
+326,Wassermannstraße,13.5519025,52.4392704
+327,Wassermannstraße,13.5526003,52.4395698
+328,Weißer See,13.4659602,52.5521773
+329,S Adlershof,13.5413836,52.4340207
+330,Am Steinberg,13.4333751,52.5585796
+331,Prenzlauer Promenade/Am Steinberg,13.4295342,52.5565563
+332,Tino-Schwierzina-Straße,13.4348157,52.5622588
+333,Am Steinberg,13.4331617,52.5581724
+334,Am Wasserturm,13.4358341,52.5648336
+335,Weißer See,13.4647134,52.5516265
+336,Heinersdorf,13.4371063,52.5725511
+337,Greifswalder Straße/Ostseestraße,13.444118,52.5452407
+338,Greifswalder Straße/Ostseestraße,13.445119,52.5457311
+339,Hugenottenplatz,13.4188658,52.6059135
+340,Guyotstraße,13.4160793,52.6052662
+341,Navarraplatz,13.4285103,52.6080946
+342,Arnouxstraße,13.4235934,52.6071481
+343,Betriebshof Weißensee,13.4681718,52.5569649
+344,Fröbelstraße,13.4259125,52.542079
+345,S Prenzlauer Allee,13.427408,52.5448075
+346,Erich-Weinert-Straße,13.4287932,52.5481477
+347,S+U Alexanderplatz/Dircksenstraße,13.4120602,52.5213728
+348,S+U Alexanderplatz/Dircksenstraße,13.4106594,52.5222588
+349,Hufelandstraße,13.4290859,52.5327449
+350,Albertinenstraße,13.4580146,52.5498168
+351,Buschallee,13.4691966,52.5537598
+352,Mollstraße/Prenzlauer Allee,13.4161901,52.526818
+353,Betriebshof Weißensee,13.4677089,52.5570138
+354,Pasedagplatz,13.4609656,52.5594065
+355,S Hackescher Markt,13.4026808,52.5216622
+356,S Hackescher Markt,13.4034114,52.5226093
+357,U Rosa-Luxemburg-Platz,13.4104123,52.5286105
+358,Monbijouplatz,13.3986636,52.5237105
+359,U Rosenthaler Platz,13.4019,52.5297422
+360,U Weinmeisterstraße/Gipsstraße,13.4035047,52.5253215
+361,Husemannstraße,13.4191052,52.5399725
+362,Husemannstraße,13.4182043,52.5401347
+363,U Eberswalder Straße,13.4128386,52.5409911
+364,Wilhelminenhofstraße/Edisonstraße,13.5138972,52.4619526
+365,Pappelplatz,13.3947562,52.5322689
+366,Schwedter Straße,13.4082376,52.5371529
+367,S Hackescher Markt,13.402603,52.5238354
+368,U Oranienburger Tor,13.3878498,52.5262067
+369,S Oranienburger Straße,13.3923646,52.5250979
+370,Georgenstraße/Am Kupfergraben,13.39369,52.5203096
+371,Ahrenshooper Straße,13.5016719,52.566363
+372,Anna-Ebermann-Straße,13.512077,52.5549343
+373,Arnimstraße,13.5150534,52.5585353
+374,Prendener Straße,13.5195448,52.5685017
+375,Feldtmannstraße,13.4950964,52.5597435
+376,Giersstraße,13.4821862,52.5544234
+377,Hansastraße/Malchower Weg,13.4992999,52.5612044
+378,Rhinstraße/Gärtnerstraße,13.509622,52.5461347
+379,S Hohenschönhausen,13.5131802,52.5663088
+380,Stadion Buschallee/Hansastraße,13.4869834,52.5566718
+381,Welsestraße,13.5251581,52.5692194
+382,Zingster Straße/Ribnitzer Straße,13.4971498,52.5703215
+383,Alt-Hohenschönhausen,13.5045505,52.5488737
+384,Weißer See,13.465843,52.5515946
+385,Betriebshof Indira-Gandhi-Straße,13.4687215,52.5442346
+386,Gounodstraße,13.467139,52.5484998
+387,Hohenschönhauser Straße,13.4729468,52.5359329
+388,Landsberger Allee/Weißenseer Weg,13.4764087,52.532769
+389,Loeperplatz,13.4801576,52.5202545
+390,Loeperplatz,13.4791629,52.5203743
+391,Möllendorffstraße/Storkower Straße,13.4795914,52.5238424
+392,Rathaus Lichtenberg,13.4792529,52.5161015
+393,S+U Frankfurter Allee,13.4775557,52.5139808
+394,Sportforum,13.4713825,52.5385243
+395,Roederplatz,13.479068,52.5266001
+396,Arnswalder Platz,13.437123,52.5342203
+397,Bersarinplatz,13.4525257,52.519215
+398,Kniprodestraße/Danziger Straße,13.4421124,52.5315225
+399,Landsberger Allee/Petersburger Straße,13.4473159,52.5267024
+400,Paul-Heyse-Straße,13.4449135,52.5289276
+401,Straßmannstraße,13.4503004,52.5224781
+402,Masurenstraße,13.4127792,52.5636567
+403,S+U Pankow,13.4121641,52.5675692
+404,Pankow Kirche,13.4084648,52.5703931
+405,Pankow Kirche,13.4103115,52.5706452
+406,Karl-Ziegler-Straße,13.5264644,52.4324915
+407,Karl-Ziegler-Straße,13.5261627,52.4327229
+408,Magnusstraße,13.5301036,52.4297094
+409,Magnusstraße,13.5306716,52.4299442
+410,S Adlershof,13.5410593,52.4343094
+411,S Adlershof,13.5404481,52.4351347
+412,Walther-Nernst-Straße,13.5346199,52.4319115
+413,Walther-Nernst-Straße,13.5350522,52.4321448
+414,Adlergestell/Vetschauer Allee,13.6340226,52.3866039
+415,Köllnischer Platz,13.5686306,52.4447272
+416,S Spindlersfeld,13.5624076,52.4457149
+417,S+U Warschauer Straße,13.4484788,52.5048724
+418,Landsberger Allee/Petersburger Straße,13.4457099,52.5257974
+419,U Alexanderplatz,13.4143847,52.5219449
+420,Am Friedrichshain,13.424138,52.5285131
+421,Antonplatz,13.4524061,52.5485959
+422,S Greifswalder Straße,13.4385364,52.5408786
+423,Thomas-Mann-Straße,13.4410608,52.5430358
+424,Sulzfelder Straße,13.4753656,52.5533884
+425,Hohenschönhauser Straße,13.4742417,52.5352266
+426,Jan-Petersen-Straße,13.5609668,52.5474117
+427,Büschingstraße,13.4267728,52.5231328
+428,Freizeitforum Marzahn,13.5569071,52.5459306
+429,Meeraner Straße,13.5192567,52.5290091
+430,Helene-Weigel-Platz,13.5434041,52.5259347
+431,Beilsteiner Straße,13.5297264,52.5255039
+432,S Springpfuhl,13.5360958,52.525709
+433,Allee der Kosmonauten/Rhinstraße,13.5203097,52.5259142
+434,Landsberger Allee/Rhinstraße,13.5170344,52.5358377
+435,Boschpoler Straße,13.5486679,52.527324
+436,Allee der Kosmonauten/Poelchaustraße,13.5520361,52.5339106
+437,Zum Seeblick,13.6433356,52.3798516
+438,Scharnweberstraße/Weichselstraße,13.4708034,52.5118973
+439,Björnsonstraße,13.4030585,52.5544232
+440,Osloer Straße/Prinzenallee,13.3832449,52.5559806
+441,S Bornholmer Straße,13.3954269,52.5549382
+442,Herzbergstraße/Siegfriedstraße,13.4997528,52.5255927
+443,Rüdickenstraße,13.5097678,52.5599848
+444,Galenusstraße,13.4285911,52.5821303
+445,Pankower Straße,13.428851,52.5848774
+446,S Pankow-Heinersdorf,13.4281593,52.5777355
+447,Marienstraße/Pasewalker Straße,13.4313671,52.5922981
+448,Pasewalker Straße/Blankenburger Weg,13.430514,52.5896961
+449,Blankenfelder Straße,13.4313576,52.6020283
+450,Rosenthaler Straße,13.4326986,52.5956687
+451,Französisch Buchholz Kirche,13.4336533,52.6071368
+452,Kuckhoffstraße,13.4029654,52.5840207
+453,Nordend,13.4023403,52.5901593
+454,Schillerstraße,13.4110511,52.5920987
+455,Schillerstraße,13.41088,52.5923051
+456,Kuckhoffstraße,13.403169,52.5836046
+457,Bürgerpark Pankow,13.3984217,52.5714873
+458,Bürgerpark Pankow,13.3983316,52.5713805
+459,Stiftsweg,13.4156121,52.5727169
+460,Am Iderfenngraben,13.3923698,52.5823524
+461,Nordendstraße,13.3882789,52.588533
+462,Rosenthal Nord,13.3726652,52.598664
+463,Angerweg,13.3837136,52.591974
+464,Hauptstraße/Friedrich-Engels-Straße,13.3763916,52.5970063
+465,Wiesenwinkel,13.3810264,52.594371
+466,Libauer Straße,13.4546946,52.5101841
+467,Simplonstraße,13.4564928,52.5098432
+468,Wühlischstraße/Gärtnerstraße,13.4602181,52.5089435
+469,Niederbarnimstraße,13.4573531,52.5129045
+470,Fürstenwalder Damm,13.6526972,52.452346
+471,Fürstenwalder Damm/Müggelseedamm,13.6629783,52.4496666
+472,Hartlebenstraße,13.6333365,52.4566173
+473,Licht- und Luftbad Müggelsee,13.6708951,52.4477546
+474,Strandbad Müggelsee,13.6774213,52.4458052
+475,Wasserwerk Friedrichshagen,13.6415532,52.4561223
+476,S+U Friedrichstraße,13.388415,52.5195641
+477,S+U Pankow,13.4122949,52.5671025
+478,U Vinetastraße,13.413232,52.5596168
+479,Bahnhofstraße/Seelenbinderstraße,13.5769303,52.4554632
+480,Bersarinplatz,13.4545077,52.5190126
+481,Forckenbeckplatz,13.4592788,52.5204601
+482,Proskauer Straße,13.4630477,52.5198863
+483,James-Hobrecht-Straße,13.4663972,52.5201075
+484,Scheffelstraße,13.473873,52.5205517
+485,Scheffelstraße,13.474128,52.5204942
+486,Oderbruchstraße,13.4614668,52.530501
+487,Judith-Auer-Straße,13.4676978,52.5340748
+488,Arendsweg,13.5045091,52.5348368
+489,Dingelstädter Straße,13.5251461,52.5368454
+490,Schalkauer Straße,13.5094071,52.5351151
+491,Altenhofer Straße,13.480385,52.534902
+492,Oberseestraße,13.4978874,52.5469426
+493,Anton-Saefkow-Platz,13.4689825,52.5281596
+494,Herzbergstraße/Industriegebiet,13.4897656,52.5265974
+495,Kleingartenanlage Bielefeldt,13.5192897,52.5188045
+496,S Friedrichsfelde Ost,13.5190234,52.5139753
+497,Roederplatz,13.4795986,52.5270931
+498,Alt-Friedrichsfelde/Rhinstraße,13.5189315,52.5100917
+499,Criegernweg,13.52173,52.5005867
+500,Marksburgstraße,13.5269579,52.4867994
+501,Treskowallee/HTW,13.5264678,52.4929123
+502,U Tierpark,13.5241639,52.4964388
+503,Alfred-Kowalke-Straße,13.5198488,52.5056038
+504,Virchow-Klinikum,13.3389703,52.5436415
+505,Berliner Allee/Rennbahnstraße,13.4656872,52.5573986
+506,Berliner Allee/Rennbahnstraße,13.4653844,52.5575657
+507,Marzahner Promenade,13.5485317,52.5426977
+508,Marzahner Promenade,13.5494306,52.5429307
+509,Adersleber Weg,13.5600838,52.5376742
+510,Alt-Marzahn,13.5635092,52.5417781
+511,Friedrich-Ludwig-Jahn-Sportpark,13.4057883,52.5408998
+512,Gedenkstätte Berliner Mauer,13.3905139,52.5357345
+513,S Nordbahnhof,13.3875897,52.5323318
+514,U Bernauer Straße,13.3964824,52.5384311
+515,Wolliner Straße,13.4012039,52.5396897
+516,Wolliner Straße,13.4020576,52.5399966
+517,U Bernauer Straße,13.3954653,52.5380716
+518,Bürgerpark Marzahn,13.5617322,52.550577
+519,Max-Herrmann-Straße,13.5658757,52.5540951
+520,Betriebshof Marzahn,13.5815651,52.5487647
+521,Brodowiner Ring,13.5779591,52.5478226
+522,Landsberger Chaussee/Zossener Straße,13.5869065,52.5486256
+523,Michendorfer Straße,13.5867347,52.5455926
+524,Alte Hellersdorfer Straße/Zossener Straße,13.5920459,52.5448698
+525,Zossener Straße/Kastanienallee,13.5982956,52.5440155
+526,Stendaler Straße/Zossener Straße,13.6033771,52.5437918
+527,Stendaler Straße/Zossener Straße,13.6034175,52.5433448
+528,Stendaler Straße/Quedlinburger Straße,13.6042999,52.5394032
+529,U Hellersdorf,13.6052636,52.5360594
+530,Nossener Straße,13.6084404,52.533407
+531,Jenaer Straße,13.6150858,52.5319883
+532,Nossener Straße,13.6109001,52.5328615
+533,Riesaer Straße/Louis-Lewin-Straße,13.6218539,52.5305657
+534,Stahlheimer Straße/Wisbyer Straße,13.425432,52.5525647
+535,Barnimplatz,13.574395,52.5679547
+536,Niemegker Straße,13.5714494,52.5646318
+537,S Marzahn,13.5425363,52.5422857
+538,S Marzahn,13.5419279,52.5424883
+539,Genslerstraße,13.4967837,52.534413
+540,Prenzlauer Allee/Danziger Straße,13.4234701,52.5392903
+541,Marienburger Straße,13.4216853,52.5349161
+542,Knaackstraße,13.4205323,52.5329754
+543,Prenzlauer Allee/Metzer Straße,13.419204,52.5308286
+544,Mollstraße/Prenzlauer Allee,13.4161078,52.5274326
+545,S+U Alexanderplatz/Memhardstraße,13.4110773,52.5233439
+546,Allee der Kosmonauten/Rhinstraße,13.5196246,52.5249862
+547,Holteistraße,13.4667506,52.5090768
+548,Gehrenseestraße,13.5092658,52.5513534
+549,Bersarinplatz,13.4542505,52.5189734
+550,Forckenbeckplatz,13.4585731,52.5201985
+551,Falkenberg,13.5276714,52.5700498
+552,Köpenicker Chaussee/Blockdammweg,13.5016748,52.4832902
+553,Köpenicker Chaussee/Blockdammweg,13.5020856,52.4833627
+554,Stühlinger Straße,13.5209365,52.4800997
+555,Kosanke-Siedlung,13.4843647,52.4973878
+556,S Rummelsburg,13.4772416,52.5006326
+557,Bellevuestraße,13.5937857,52.4530499
+558,Mühlweg,13.6128612,52.4541676
+559,Wassersportzentrum,13.6085751,52.4492553
+560,Westendsiedlung,13.6082703,52.453131
+561,Virchowstraße,13.4420765,52.525766
+562,Virchowstraße,13.4420406,52.5258387
+563,Zechliner Straße,13.4874733,52.5339761
+564,Allee der Kosmonauten/Rhinstraße,13.5183775,52.5260364
+565,Platz der Vereinten Nationen,13.4326457,52.5232658
+566,Klinikum im Friedrichshain,13.4398394,52.5240678
+567,Mollstraße/Otto-Braun-Straße,13.4204264,52.5249466
+568,S Landsberger Allee,13.4557828,52.5285325
+569,S+U Alexanderplatz/Gontardstraße,13.4110566,52.5212168
+570,Drontheimer Straße,13.3779272,52.5563997
+571,Grüntaler Straße,13.3901361,52.5554268
+572,Louise-Schroeder-Platz,13.3659989,52.5570165
+573,U Osloer Straße,13.3726128,52.5567783
+574,Osram-Höfe,13.3579372,52.553567
+575,U Seestraße,13.3510635,52.5499916
+576,Seestraße/Amrumer Straße,13.3443738,52.5464818
+577,Schönfließer Straße,13.4090846,52.554074
+578,Gewerbepark Georg Knorr,13.5335835,52.5389551
+579,Landsberger Allee/Rhinstraße,13.5187745,52.5357368
+580,Humannplatz,13.4213646,52.5493627
+581,Stahlheimer Straße/Wisbyer Straße,13.4243608,52.5521431
+582,Stargarder Straße,13.4189621,52.5471362
+583,Raumerstraße,13.4150678,52.5435454
+584,Bahnhofstraße/Lindenstraße,13.572684,52.4505094
+585,S Oranienburger Straße,13.3924023,52.5251144
+586,Mollstraße/Otto-Braun-Straße,13.4193797,52.5253884
+587,Alte Försterei,13.5638379,52.456506
+588,Freizeit- und Erholungszentrum,13.5441238,52.4574497
+589,Ostendstraße,13.5338473,52.4572322
+590,Rathenaustraße/HTW,13.5256803,52.458819
+591,Nixenstraße,13.550718,52.4563907
+592,Freiheit,13.576083,52.4466212
+593,Riesaer Straße,13.6240653,52.5296427
+594,Betriebshof Lichtenberg,13.4994454,52.5206411
+595,Ev. Krankenhaus KEH,13.508866,52.5254877
+596,Siegfriedstraße/Josef-Orlopp-Straße,13.4996388,52.5236942
+597,Herzbergstraße/Siegfriedstraße,13.4996921,52.5253898
+598,Allee der Kosmonauten/Rhinstraße,13.5186756,52.5259894
+599,Falkenberger Straße/Berliner Allee,13.4676381,52.5548156
+600,Buschallee,13.4699582,52.5536757
+601,Freiaplatz,13.4985788,52.5154751
+602,Gotlindestraße,13.4992303,52.5179705
+603,S+U Lichtenberg/Gudrunstraße,13.499568,52.5121919
+604,Fanningerstraße,13.4982207,52.5143097
+605,James-Hobrecht-Straße,13.4684045,52.5203018
+606,Guntherstraße,13.5020318,52.513601
+607,Hermann-Hesse-Straße/Waldstraße,13.4020889,52.5806125
+608,Freienwalder Straße,13.4929992,52.5443517
+609,Judith-Auer-Straße,13.4680099,52.5341801
+610,Werneuchener Straße,13.4890554,52.5422889
+611,Oberseestraße,13.498184,52.5470466
+612,Krankenhaus Köpenick/Südseite,13.5916396,52.4390415
+613,Pablo-Neruda-Straße,13.586986,52.440604
+614,Betriebshof Köpenick,13.5817821,52.4401326
+615,Dregerhoffstraße,13.5852586,52.4274137
+616,Lienhardweg,13.5879004,52.4217052
+617,Mayschweg,13.5823671,52.4368845
+618,Müggelbergallee,13.5885659,52.4194993
+619,Müggelheimer Straße/Wendenschloßstraße,13.5810712,52.4430866
+620,Pritstabelstraße,13.5838771,52.4306362
+621,Segewaldweg,13.5828568,52.4343305
+622,Zur Nachtheide,13.5864837,52.4248423
+623,Rhinstraße/Plauener Straße,13.513773,52.540168
+624,Friedrich-Ludwig-Jahn-Sportpark,13.4065488,52.5409885
+625,Mollstraße/Prenzlauer Allee,13.4167855,52.5265183
+626,Karl-Lade-Straße,13.4626679,52.5292356
+627,Hegemeisterweg,13.5201087,52.4739371
+628,Rummelsburger Straße/Edisonstraße,13.5138227,52.4682289
+629,Rummelsburger Straße/Edisonstraße,13.5135217,52.4679531
+630,Volkspark Wuhlheide,13.5169533,52.4709069
+631,Würtzstraße,13.424869,52.5761572
+632,Mendelstraße,13.4195974,52.575075
+633,Am Faulen See,13.4947298,52.5505971
+634,Degnerstraße/Suermondtstraße,13.4982063,52.5497942
+635,Tschaikowskistraße,13.3988199,52.5756602
+636,Tschaikowskistraße,13.3984917,52.5763518
+637,Orankestrand,13.485843,52.5523225
+638,Brückenstraße,13.5121185,52.4586564
+639,Brückenstraße,13.5110528,52.4575996
+640,S Schöneweide,13.5110449,52.4553413
+641,Sterndamm/Königsheideweg,13.5066707,52.4467799
+642,Haeckelstraße,13.5052638,52.4402944
+643,Haeckelstraße,13.5057814,52.4408029
+644,Haeckelstraße,13.5061522,52.4417413
+645,Herweghstraße,13.5055404,52.4442228
+646,Mühlbergstraße,13.503402,52.4416656
+647,Johannisthal Kirche,13.5039451,52.4443557
+648,Spindlersfelder Straße,13.559221,52.4559817
+649,Betriebshof Lichtenberg,13.4993269,52.5194799
+650,Wilhelminenhofstraße/Edisonstraße,13.513617,52.4625068
+651,S Friedrichshagen,13.6254085,52.4562846
+652,Josef-Nawrocki-Straße,13.6280082,52.4467168
+653,Altes Wasserwerk,13.6404401,52.4482732
+654,Bruno-Wille-Straße,13.6320147,52.4468821
+655,Altes Wasserwerk,13.6391517,52.4480148
+656,Bruno-Wille-Straße,13.6324214,52.4469814
+657,Spreestraße,13.6149947,52.4472351
+658,Behaimstraße,13.4469259,52.5497421
+659,Behaimstraße,13.4467563,52.5498427
+660,Friesickestraße,13.4403417,52.5518541
+661,Gustav-Adolf-Straße/Langhansstraße,13.4352568,52.5534746
+662,Gustav-Adolf-Straße/Langhansstraße,13.4343757,52.5536867
+663,Heizkraftwerk Klingenberg,13.4963382,52.4877427
+664,Richtershorn,13.6246617,52.4013919
+665,Brunnenstraße/Invalidenstraße,13.3993883,52.5319527
+666,Pappelplatz,13.3945079,52.5322699
+667,Herzbergstraße/Industriegebiet,13.4906081,52.5265467
+668,Gustav-Holzmann-Straße,13.4904967,52.4932974
+669,Helene-Weigel-Platz,13.5429853,52.5258954
+670,Hirschgarten,13.6002344,52.4519532
+671,Blockdammweg,13.5096509,52.4842911
+672,Regattastraße/Sportpromenade,13.5976825,52.4105463
+673,Regattatribünen,13.5880838,52.4114267
+674,S Grünau,13.574676,52.4134882
+675,Strandbad Grünau,13.603986,52.4087096
+676,Wassersportallee,13.5798925,52.4163318
+677,Wassersportallee,13.5800196,52.4163494
+678,Raumerstraße,13.4158316,52.5443197
+679,Rosenthal Nord,13.372887,52.5985162
+680,Alt-Schmöckwitz,13.6490239,52.3757057
+681,Zum Seeblick,13.6436314,52.3796025
+682,S+U Hauptbahnhof,13.3694391,52.5264969
+683,Mahlsdorf-Süd,13.5984757,52.4740854
+684,Schwedter Straße,13.4075076,52.5365045
+685,Humannplatz,13.4217069,52.5497496
+686,U Rosenthaler Platz,13.4016121,52.5301769
+687,Stargarder Straße,13.4189937,52.5472432
+688,Zionskirchplatz,13.4055497,52.5344603
+689,Am Kupfergraben,13.393743,52.5192077
+690,Am Friedrichshain,13.4246058,52.528854
+691,S Köpenick,13.5805696,52.4590008
+692,Hirtestraße,13.5838302,52.4590446
+693,Schappachstraße,13.6320251,52.3943456
+694,Schappachstraße,13.6317399,52.3946578
+695,S Mahlsdorf,13.6112093,52.5112122
+696,Rahnsdorfer Straße,13.6128987,52.4983047
+697,Rahnsdorfer Straße,13.613101,52.4985173
+698,Friedrich-Engels-Straße/Eichenstraße,13.3903368,52.5848969
+699,Friedrich-Engels-Straße/Eichenstraße,13.3902725,52.5851201
+700,Niederbarnimstraße,13.458491,52.5126725
+701,Bernhard-Bästlein-Straße,13.4825593,52.5267353
+702,Heinrich-Böll-Straße,13.4017828,52.5875526
+703,Schönfließer Straße,13.408422,52.5540838
+704,Mahlsdorf-Süd,13.5986686,52.4739802
+705,Mittelheide,13.5840398,52.4637631
+706,Unter den Birken,13.5893611,52.4701961
+707,Wongrowitzer Steig,13.5855872,52.4671864
+708,Lüneburger Straße,13.3617622,52.5231079
+709,Clara-Jaschke-Straße,13.3662249,52.5251513
+710,Lesser-Ury-Weg,13.3620668,52.5242203
+711,Brunnenstraße/Invalidenstraße,13.3974236,52.5324696
+712,Invalidenpark,13.3763504,52.5286126
+713,Invalidenpark,13.3770736,52.5287568
+714,Bammelecke,13.6206513,52.4059355
+715,U Frankfurter Tor,13.4537843,52.5154611
+716,S+U Lichtenberg/Gudrunstraße,13.5005323,52.5125804
+717,Albertinenstraße,13.4573678,52.5497059
+718,Marktstraße,13.4746652,52.5028509
+719,U Naturkundemuseum,13.3820921,52.5303003
+720,Bammelecke,13.6205655,52.4059861
+721,S+U Hauptbahnhof,13.3700051,52.5266408
+722,Dregerhoffstraße,13.585176,52.4277039
+723,Lienhardweg,13.5879086,52.4218815
+724,Mayschweg,13.5823576,52.4372092
+725,Müggelbergallee,13.5890184,52.4184757
+726,Pritstabelstraße,13.5839789,52.4304209
+727,Segewaldweg,13.582801,52.4347038
+728,Zur Nachtheide,13.5864658,52.4249674
+729,Wilhelminenhofstraße/Edisonstraße,13.513643,52.461541
+730,Bahnhofstraße/Seelenbinderstraße,13.5765543,52.455012
+731,Ostendstraße,13.5339625,52.4572127
+732,Weiskopffstraße,13.5399712,52.4575986
+733,Brandenburgplatz,13.5905123,52.4553358
+734,Brandenburgplatz,13.5908676,52.4553158
+735,Gotlindestraße,13.4991322,52.5178145
+736,Herzbergstraße/Siegfriedstraße,13.499036,52.52637
+737,U Naturkundemuseum,13.3827302,52.5304158
+738,Proskauer Straße,13.4634375,52.5198524
+739,Stechlinstraße,13.5164286,52.4820547
+740,Stühlinger Straße,13.5202679,52.4803668
+741,S Nordbahnhof,13.3887147,52.531658
+742,S Nordbahnhof,13.3890774,52.5316655
+743,Brunnenstraße/Invalidenstraße,13.3995725,52.532764
+744,Heinrich-Böll-Straße,13.4017289,52.5875177
+745,Werneuchener Straße,13.4902215,52.5429295
+746,U Rosenthaler Platz,13.402598,52.5297484
+747,U Rosenthaler Platz,13.4017174,52.5302529
+748,Ahornallee,13.6189045,52.4556007
+749,Drachholzstraße,13.6250286,52.4538047
+750,Drachholzstraße,13.62517,52.454483
+751,Josef-Nawrocki-Straße,13.6285669,52.4466984
+752,Marktplatz Friedrichshagen,13.6246858,52.4508404
+753,Marktplatz Friedrichshagen,13.6247417,52.4508226
+754,Müggelseedamm/Bölschestraße,13.6242974,52.4474151
+755,Müggelseedamm/Bölschestraße,13.6243696,52.4476961
+756,S Friedrichshagen,13.6253656,52.4564126
+757,S Friedrichshagen,13.6264675,52.4568662
+758,S Friedrichshagen,13.6261676,52.4569002
+759,Gelnitzstraße,13.5847652,52.4553906
+760,Gelnitzstraße,13.5850479,52.45543
+761,Müggelheimer Straße/Wendenschloßstraße,13.5812285,52.4429928
+762,Alt-Mahlsdorf,13.6132612,52.5053424
+763,Bruchsaler Straße,13.6060968,52.4889553
+764,Bütower Straße,13.603978,52.486104
+765,Eichenhofweg,13.6078903,52.4914085
+766,Hultschiner Damm/Seestraße,13.6004398,52.4768942
+767,Ledebourstraße,13.609508,52.4936827
+768,Roseggerstraße,13.6009017,52.4802773
+769,Wilhelmsmühlenweg,13.6130109,52.5082644
+770,Alt-Schmöckwitz,13.6491829,52.3747509
+771,Betriebshof Köpenick,13.5817824,52.4399134
+772,Herzbergstraße/Siegfriedstraße,13.4976022,52.5264353
+773,Roederplatz,13.4794893,52.5274442
+774,Siegfriedstraße/Josef-Orlopp-Straße,13.4995626,52.5231484
+775,Marktstraße,13.4742237,52.5029418
+776,S Rummelsburg,13.4762392,52.5010558
+777,Zingster Straße,13.4952579,52.5728728
+778,Hufelandstraße,13.428684,52.5324521
+779,Universitätsstraße,13.3917527,52.5190849
+780,Björnsonstraße,13.4038986,52.5543447
+781,Björnsonstraße,13.4025884,52.5553007
+782,Drontheimer Straße,13.3786102,52.5563119
+783,Helsingforser Platz,13.4498513,52.5084836
+784,Helsingforser Platz,13.4498377,52.5085126
+785,Grabbeallee/Pastor-Niemöller-Platz,13.3983016,52.578668
+786,Nordend,13.4027524,52.5902104
+787,Pastor-Niemöller-Platz,13.3969139,52.5802279
+788,Waldemarstraße,13.4061589,52.5908173
+789,Milastraße,13.4129878,52.5456515
+790,Heinersdorf Kirche,13.4392285,52.5683537
+791,Heinersdorf Kirche,13.4388807,52.5686799
+792,Brösener Straße,13.6351363,52.4591439
+793,S Friedrichshagen,13.6258286,52.4579429
+794,Degnerstraße,13.4947818,52.5460383
+795,Spandauer Straße/Marienkirche,13.4052519,52.5202778
+796,U Naturkundemuseum,13.3834143,52.5302913
+797,U Naturkundemuseum,13.3833714,52.5302814
+798,U Hellersdorf,13.6050402,52.5364636
+799,Alt-Schmöckwitz,13.649549,52.3752767
+800,Betriebshof Köpenick,13.5818876,52.4392521
+801,U Weinmeisterstraße,13.4065674,52.5252077
+802,U Weinmeisterstraße,13.406737,52.5253628
+803,S Schöneweide/Sterndamm,13.510566,52.4540948
+804,Müggelseedamm/Bölschestraße,13.6232842,52.4467908
+805,Friedrich-Ludwig-Jahn-Sportpark,13.4063047,52.5413588
+806,Friedrich-Ludwig-Jahn-Sportpark,13.4062834,52.5414023
+807,Betriebshof Marzahn,13.5836544,52.548716
+808,Betriebshof Marzahn,13.5837011,52.5487275
+809,Virchowstraße,13.4421106,52.5257322
+810,Hermann-Hesse-Straße/Waldstraße,13.4013183,52.5805068
+811,Simon-Bolivar-Straße,13.4834078,52.5394437
+812,Sandinostraße,13.4792644,52.5379687
+813,Hohenschönhauser Straße,13.4747282,52.5364828
+814,Hohenschönhauser Straße,13.4748251,52.5364787
+815,S Grünau,13.5753023,52.4142958
+816,S Karlshorst,13.5253654,52.4813483
+817,Traberweg,13.5233752,52.47696
+818,Traberweg,13.5238052,52.4773172
+819,Treskowallee/Ehrlichstraße,13.5232886,52.4790566
+820,Treskowallee/Ehrlichstraße,13.5234316,52.4789566
+821,Landschaftspark Johannisthal,13.5259118,52.4369716
+822,Landschaftspark Johannisthal,13.5266116,52.4373427
+823,Gerhard-Sedlmayr-Straße,13.5241873,52.439713
+824,Gerhard-Sedlmayr-Straße,13.5237642,52.4400489
+825,Benno-König-Straße,13.5197585,52.4427273
+826,Benno-König-Straße,13.5193016,52.4430813
+827,Landfliegerstraße,13.5150447,52.4459647
+828,Landfliegerstraße,13.5146615,52.4462951
+829,Nieberstraße,13.5114664,52.4493253
+830,Nieberstraße,13.5116694,52.4490251
+831,Siemensstraße/Nalepastraße,13.5094284,52.4634812
